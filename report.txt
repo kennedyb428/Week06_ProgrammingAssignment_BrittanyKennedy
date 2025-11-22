@@ -1,0 +1,31 @@
+***************************************************************************
+Vegetarian Nutrition for Weightlifters Report
+***************************************************************************
+
+Information you provided:
+Favorite protein source: .........................yogurt
+Daily calorie target: ............................2000
+Weekly calorie target: ...........................14000
+Meals per day: ...................................2
+Weekly workout hours: ............................5.00
+
+Suggested weekly macros:
+Protein: .........................................1050 grams
+Carbs: ...........................................1400 grams
+Fats: ............................................462 grams
+
+Suggested total daily macros:
+Protein: .........................................150 grams (600 cal)
+Carbs: ...........................................200 grams (800 cal)
+Fats: ............................................66 grams (594 cal)
+
+Per meal macro targets:
+Protein grams per meal: ..........................75
+Carbs grams per meal: ............................100
+Fats grams per meal:  ............................33
+
+***************************************************************************
+Keep fueling with yogurt to hit 150 grams of protein daily!
+Remember your 5.00 hours of weightlifting per week...
+Keep lifting heavy, Brittany Kennedy!
+
